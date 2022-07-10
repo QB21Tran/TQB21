@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Quoc Bao</h1>
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
+<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/800px-Flag_of_Vietnam.svg.png" width="10%"/></p>
 <h3 align="center">A electrical engineer from Vietnam </h3>
 
 - ✍ I'm a student of: [Ha Noi University of Transport and Communications](https://www.utc.edu.vn/) (UTC).
