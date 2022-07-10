@@ -30,7 +30,7 @@
 </p>
 
 ## Skills:
-<p align="center">
+<p align="left">
    Lập Trình PLC,HMI Mitsubishi,Siemens,Omron...
     Và các ngôn ngữ lập trình khác như:
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
