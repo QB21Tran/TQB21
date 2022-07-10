@@ -30,13 +30,14 @@
 </p>
 
 ## Skills:
-<p align="left">
-   Lập Trình PLC,HMI Mitsubishi,Siemens,Omron...
+<p align="center">
+   Lập Trình PLC,HMI,INVERTER
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Mitsubishi_Electric_logo.svg"width="10%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Siemens_AG_logo.svg"width="10%"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/OmronLogo.jpg"width="10%"/>
     Và các ngôn ngữ lập trình khác như:
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
 </p>
